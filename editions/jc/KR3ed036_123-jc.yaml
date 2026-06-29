@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed036/jc/v1/juan/123
+seq: 123
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷一百二十三傷寒門傷寒運氣精華
+  hash: sha256:f70a500d10ef34f3a91fd7f61f1ce927a694a56413e02aa2a34fb54e995620f3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed036_jc_123-d124.h1s1}
+  - {type: 'tls:div-start', offset: 6, content: '', id: KR3ed036_jc_123-d124d2, level: 2, head_text: 傷寒門}
+  - {type: 'tls:head', offset: 6, content: '', id: KR3ed036_jc_123-d124.d2.h1s1}
+  - {type: 'tls:div-start', offset: 9, content: '', id: KR3ed036_jc_123-d124.d2d2, level: 3, head_text: 傷寒運氣精華}
+  - {type: 'tls:head', offset: 9, content: '', id: KR3ed036_jc_123-d124.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 15, content: '', id: KR3ed036_jc_123-d124.d2d2}
+  - {type: 'tls:div-end', offset: 15, content: '', id: KR3ed036_jc_123-d124d2}
+metadata:
+  title: 普濟方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed036.xml
+hash: sha256:661aaea5891f5ec85fe929c2aa79b43fd7d97ba5d14604d9911912dc14f2de78

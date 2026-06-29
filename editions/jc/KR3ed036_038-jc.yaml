@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed036/jc/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷三十八大腸腑門臟毒下血
+  hash: sha256:3bf4d28136bea3beac15b5ea4791699c2bc014fbbda255fdb96437def0903f90
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed036_jc_038-d39.h1s1}
+  - {type: 'tls:div-start', offset: 4, content: '', id: KR3ed036_jc_038-d39d2, level: 2, head_text: 大腸腑門}
+  - {type: 'tls:head', offset: 4, content: '', id: KR3ed036_jc_038-d39.d2.h1s1}
+  - {type: 'tls:div-start', offset: 8, content: '', id: KR3ed036_jc_038-d39.d2d2, level: 3, head_text: 臟毒下血}
+  - {type: 'tls:head', offset: 8, content: '', id: KR3ed036_jc_038-d39.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 12, content: '', id: KR3ed036_jc_038-d39.d2d2}
+  - {type: 'tls:div-end', offset: 12, content: '', id: KR3ed036_jc_038-d39d2}
+metadata:
+  title: 普濟方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed036.xml
+hash: sha256:90fab2c73b4e0748d74aa74dfe38487459e990d8e37983d65e6c7900490d8979

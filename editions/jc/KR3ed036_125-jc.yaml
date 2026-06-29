@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed036/jc/v1/juan/125
+seq: 125
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷一百二十五傷寒門歌訣
+  hash: sha256:f08930e1116f42eac574d218ac80d05c60a970b7c391efef4f352a4e234daed4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed036_jc_125-d126.h1s1}
+  - {type: 'tls:div-start', offset: 6, content: '', id: KR3ed036_jc_125-d126d2, level: 2, head_text: 傷寒門}
+  - {type: 'tls:head', offset: 6, content: '', id: KR3ed036_jc_125-d126.d2.h1s1}
+  - {type: 'tls:div-start', offset: 9, content: '', id: KR3ed036_jc_125-d126.d2d2, level: 3, head_text: 歌訣}
+  - {type: 'tls:head', offset: 9, content: '', id: KR3ed036_jc_125-d126.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 11, content: '', id: KR3ed036_jc_125-d126.d2d2}
+  - {type: 'tls:div-end', offset: 11, content: '', id: KR3ed036_jc_125-d126d2}
+metadata:
+  title: 普濟方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed036.xml
+hash: sha256:3de7da1b3d29ca187edf2e4618efafa6b7fd2986bfca945a55269b8de8e956ee

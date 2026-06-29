@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed036/jc/v1/juan/165
+seq: 165
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷一百六十五痰飲門一切痰飲
+  hash: sha256:e5c210bf75af53773eb51f545d30411a7067bcc0bad7224421054920d79a68ce
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed036_jc_165-d166.h1s1}
+  - {type: 'tls:div-start', offset: 6, content: '', id: KR3ed036_jc_165-d166d2, level: 2, head_text: 痰飲門}
+  - {type: 'tls:head', offset: 6, content: '', id: KR3ed036_jc_165-d166.d2.h1s1}
+  - {type: 'tls:div-start', offset: 9, content: '', id: KR3ed036_jc_165-d166.d2d2, level: 3, head_text: 一切痰飲}
+  - {type: 'tls:head', offset: 9, content: '', id: KR3ed036_jc_165-d166.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 13, content: '', id: KR3ed036_jc_165-d166.d2d2}
+  - {type: 'tls:div-end', offset: 13, content: '', id: KR3ed036_jc_165-d166d2}
+metadata:
+  title: 普濟方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed036.xml
+hash: sha256:4750050b7819b2e4e6905b33195d744ff1a9f8c26dbf25696b43f6c5797bf192

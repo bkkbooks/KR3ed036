@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed036/jc/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷一百十諸風門大風癩病
+  hash: sha256:f93d9db9834db962f5202acba7d1dd84d49cbdaa5a342f56d01caeee9d442ee1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed036_jc_110-d111.h1s1}
+  - {type: 'tls:div-start', offset: 4, content: '', id: KR3ed036_jc_110-d111d2, level: 2, head_text: 諸風門}
+  - {type: 'tls:head', offset: 4, content: '', id: KR3ed036_jc_110-d111.d2.h1s1}
+  - {type: 'tls:div-start', offset: 7, content: '', id: KR3ed036_jc_110-d111.d2d2, level: 3, head_text: 大風癩病}
+  - {type: 'tls:head', offset: 7, content: '', id: KR3ed036_jc_110-d111.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 11, content: '', id: KR3ed036_jc_110-d111.d2d2}
+  - {type: 'tls:div-end', offset: 11, content: '', id: KR3ed036_jc_110-d111d2}
+metadata:
+  title: 普濟方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed036.xml
+hash: sha256:1d596524b7a3c05cbe1b59d3a2b03a3d4937028418650b03d6a770aa80a9d987

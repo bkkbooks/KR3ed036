@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed036/jc/v1/juan/115
+seq: 115
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷一百十五諸風門諸風雜治
+  hash: sha256:6446b605dccaa1407ca8acb9d136695700f8bca6267349e7000e4134391c16dd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed036_jc_115-d116.h1s1}
+  - {type: 'tls:div-start', offset: 5, content: '', id: KR3ed036_jc_115-d116d2, level: 2, head_text: 諸風門}
+  - {type: 'tls:head', offset: 5, content: '', id: KR3ed036_jc_115-d116.d2.h1s1}
+  - {type: 'tls:div-start', offset: 8, content: '', id: KR3ed036_jc_115-d116.d2d2, level: 3, head_text: 諸風雜治}
+  - {type: 'tls:head', offset: 8, content: '', id: KR3ed036_jc_115-d116.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 12, content: '', id: KR3ed036_jc_115-d116.d2d2}
+  - {type: 'tls:div-end', offset: 12, content: '', id: KR3ed036_jc_115-d116d2}
+metadata:
+  title: 普濟方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed036.xml
+hash: sha256:d687d0dbea7faebb24a4cbf5e93fa9a3be07c4b8d70eb42a4ba583ce54f45719
